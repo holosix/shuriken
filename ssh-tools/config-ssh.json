@@ -1,0 +1,16 @@
+[
+  {
+    "host": "ubuntu",
+    "hostName": "127.0.0.1",
+    "port": "22",
+    "user": "root",
+    "password": "123456"
+  },
+  {
+    "host": "ubuntu2",
+    "hostName": "127.0.0.1",
+    "port": "23",
+    "user": "root",
+    "identityFile": "/home/my_ssh_private_key"
+  }
+]
